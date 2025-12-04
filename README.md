@@ -6,14 +6,14 @@
 
 
 ## 👨‍💻 Developed By: Sepehr Nekooian
-.
+
 
 ## 📅 Created On: December 1 - 2025
-.
+
 ## 💫Master:@parsa_ghorbanian_web
-.
+
 ## 💻Technologies Used:React , java Script, TailWind, Css, Html
-.
+
 ## 📬 How to Reach Me:
 
 LinkedIn: www.linkedin.com/in/snekoian
