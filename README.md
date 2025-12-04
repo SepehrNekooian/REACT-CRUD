@@ -1,14 +1,14 @@
-## REACT-CRUD
+## 💻 REACT-CRUD
 
 ## 🔗[Demo Project](https://react-crud-gel1tzfou-sepehrs-projects-40226e57.vercel.app/)
 
 👨‍💻 Developed By: Sepehr Nekooian
 .
-📅 Created On: Mon, 1 December
+📅 Created On: December 1 - 2025
 .
 💫Master:@parsa_ghorbanian_web
 .
-💻Technologies Used:React, java Script, Css, Html
+💻Technologies Used:React , java Script, TailWind, Css, Html
 .
 📬 How to Reach Me:
 
